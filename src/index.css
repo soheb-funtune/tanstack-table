@@ -41,6 +41,7 @@ button {
   padding: 7px 10px;
   font-size: 15px;
   font-weight: 500;
+
   font-family: inherit;
   background-color: #1a1a1a;
   cursor: pointer;
